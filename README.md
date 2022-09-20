@@ -13,7 +13,7 @@ Prerequisites:
 Run script:
 1. git clone ssh://git@github.com:zhukovgreen/delta-lake-experiments.git
 2. poetry install
-3. poetry run python \_\_main\__.py
+3. poetry run pytest test_playground.py 
 
 # Delta format
 
